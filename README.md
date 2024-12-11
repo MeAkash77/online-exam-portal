@@ -164,23 +164,7 @@ Use following paths
   User  Frontend : localhost:3200/
 ```
 
-<!-- To Do -->
-## :notes: to-do
-  <ul>
-  <li> add more features </li>
-  </ul>
-
-
-See `contributing.md` for ways to get started.
-
-
-
-
-<!-- License -->
-## :warning: License
-
-Distributed under the no License. 
-
+thanks
 
 
 
